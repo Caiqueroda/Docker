@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\DockerNewSwitch.Api.props" />
+</Project>

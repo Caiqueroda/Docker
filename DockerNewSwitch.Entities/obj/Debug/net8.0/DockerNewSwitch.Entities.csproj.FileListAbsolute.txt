@@ -1,0 +1,11 @@
+C:\Users\caiqu\source\repos\DockerNewSwitch.Entities\bin\Debug\net8.0\DockerNewSwitch.Entities.deps.json
+C:\Users\caiqu\source\repos\DockerNewSwitch.Entities\bin\Debug\net8.0\DockerNewSwitch.Entities.dll
+C:\Users\caiqu\source\repos\DockerNewSwitch.Entities\bin\Debug\net8.0\DockerNewSwitch.Entities.pdb
+C:\Users\caiqu\source\repos\DockerNewSwitch.Entities\obj\Debug\net8.0\DockerNewSwitch.Entities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\source\repos\DockerNewSwitch.Entities\obj\Debug\net8.0\DockerNewSwitch.Entities.AssemblyInfoInputs.cache
+C:\Users\caiqu\source\repos\DockerNewSwitch.Entities\obj\Debug\net8.0\DockerNewSwitch.Entities.AssemblyInfo.cs
+C:\Users\caiqu\source\repos\DockerNewSwitch.Entities\obj\Debug\net8.0\DockerNewSwitch.Entities.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\source\repos\DockerNewSwitch.Entities\obj\Debug\net8.0\DockerNewSwitch.Entities.dll
+C:\Users\caiqu\source\repos\DockerNewSwitch.Entities\obj\Debug\net8.0\refint\DockerNewSwitch.Entities.dll
+C:\Users\caiqu\source\repos\DockerNewSwitch.Entities\obj\Debug\net8.0\DockerNewSwitch.Entities.pdb
+C:\Users\caiqu\source\repos\DockerNewSwitch.Entities\obj\Debug\net8.0\ref\DockerNewSwitch.Entities.dll

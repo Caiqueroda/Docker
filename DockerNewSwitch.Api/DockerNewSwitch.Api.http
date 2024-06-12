@@ -1,0 +1,6 @@
+@DockerNewSwitch.Api_HostAddress = http://localhost:5190
+
+GET {{DockerNewSwitch.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

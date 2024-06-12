@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "KqXyDuGeGEUCpqMr9fxVzGFGS2uuIuN4GcSbu9xwcbk=",
+  "Source": "DockerNewSwitch.Api",
+  "BasePath": "_content/DockerNewSwitch.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

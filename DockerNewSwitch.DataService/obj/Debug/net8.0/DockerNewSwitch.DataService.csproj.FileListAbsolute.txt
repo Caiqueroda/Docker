@@ -1,0 +1,17 @@
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\bin\Debug\net8.0\DockerNewSwitch.DataService.deps.json
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\bin\Debug\net8.0\DockerNewSwitch.DataService.runtimeconfig.json
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\bin\Debug\net8.0\DockerNewSwitch.DataService.dll
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\bin\Debug\net8.0\DockerNewSwitch.DataService.pdb
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\bin\Debug\net8.0\DockerNewSwitch.Entities.dll
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\bin\Debug\net8.0\DockerNewSwitch.Entities.pdb
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\obj\Debug\net8.0\DockerNewSwitch.DataService.csproj.AssemblyReference.cache
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\obj\Debug\net8.0\DockerNewSwitch.DataService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\obj\Debug\net8.0\DockerNewSwitch.DataService.AssemblyInfoInputs.cache
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\obj\Debug\net8.0\DockerNewSwitch.DataService.AssemblyInfo.cs
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\obj\Debug\net8.0\DockerNewSwitch.DataService.csproj.CoreCompileInputs.cache
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\obj\Debug\net8.0\DockerNe.BF76E566.Up2Date
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\obj\Debug\net8.0\DockerNewSwitch.DataService.dll
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\obj\Debug\net8.0\refint\DockerNewSwitch.DataService.dll
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\obj\Debug\net8.0\DockerNewSwitch.DataService.pdb
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\obj\Debug\net8.0\DockerNewSwitch.DataService.genruntimeconfig.cache
+C:\Users\caiqu\source\repos\DockerNewSwitch.DataService\obj\Debug\net8.0\ref\DockerNewSwitch.DataService.dll
